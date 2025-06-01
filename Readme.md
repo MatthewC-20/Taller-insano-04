@@ -14,6 +14,7 @@ Este taller explora la implementación de **splines cúbicos** en Python usando 
 - Ejemplos de uso y visualización simbólica de los polinomios
 - Ejercicios para experimentar con distintos conjuntos de datos
 
+![Demostración](spline1.gif)
 ---
 
 ## Requisitos
@@ -47,14 +48,6 @@ for s in splines:
 ```
 
 Puedes modificar los valores de `xs`, `ys`, `B0` y `B1` para experimentar.
-
----
-
-## Estado
-
-- [x] Implementación de splines cúbicos clamped
-- [x] Ejemplos en Jupyter Notebook
-- [ ] Visualización gráfica 
 
 ---
 
